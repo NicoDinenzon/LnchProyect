@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TiposComida">
+        <item> China </item>
+        <item> Parrilla </item>
+        <item> Pizza_Empanadas </item>
+        <item> Pasta </item>
+    </string-array>
+</resources>
